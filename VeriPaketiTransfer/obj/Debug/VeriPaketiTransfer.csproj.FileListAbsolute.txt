@@ -1,0 +1,9 @@
+F:\YAZILIM\PROJELER\VeriPaketiTransfer\VeriPaketiTransfer\bin\Debug\VeriPaketiTransfer.exe.config
+F:\YAZILIM\PROJELER\VeriPaketiTransfer\VeriPaketiTransfer\bin\Debug\VeriPaketiTransfer.exe
+F:\YAZILIM\PROJELER\VeriPaketiTransfer\VeriPaketiTransfer\bin\Debug\VeriPaketiTransfer.pdb
+F:\YAZILIM\PROJELER\VeriPaketiTransfer\VeriPaketiTransfer\obj\Debug\VeriPaketiTransfer.csprojResolveAssemblyReference.cache
+F:\YAZILIM\PROJELER\VeriPaketiTransfer\VeriPaketiTransfer\obj\Debug\VeriPaketiTransfer.Form1.resources
+F:\YAZILIM\PROJELER\VeriPaketiTransfer\VeriPaketiTransfer\obj\Debug\VeriPaketiTransfer.Properties.Resources.resources
+F:\YAZILIM\PROJELER\VeriPaketiTransfer\VeriPaketiTransfer\obj\Debug\VeriPaketiTransfer.csproj.GenerateResource.Cache
+F:\YAZILIM\PROJELER\VeriPaketiTransfer\VeriPaketiTransfer\obj\Debug\VeriPaketiTransfer.exe
+F:\YAZILIM\PROJELER\VeriPaketiTransfer\VeriPaketiTransfer\obj\Debug\VeriPaketiTransfer.pdb
